@@ -47,7 +47,7 @@
 
 ## 📫 Connect With Me
 
-- GitHub: [@USERNAME](https://github.com/sarvaralisherov)
+- GitHub: [@sarvaralisherov](https://github.com/sarvaralisherov)
 
 ---
 
